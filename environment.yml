@@ -1,0 +1,9 @@
+name: mint_jams_records
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - pandas=3.0
+  - jupyter=1.1
+  - matplotlib=3.11
+  - seaborn=0.13
