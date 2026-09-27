@@ -224,3 +224,8 @@ __marimo__/
 # Ignore all general outputs
 output/*
 !output/.gitkeep
+
+# Ignore SQLite databases
+*.db
+*.sqlite
+*.sqlite3
