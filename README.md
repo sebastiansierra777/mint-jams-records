@@ -2,7 +2,7 @@
 A normalized 5-table relational database for a jazz record store ("Mint Jams Records") built with SQLite &amp; Python
 
 ## KEY FINDINGS
-To be filled...
+Jazz Fusion is the top selling genre at Mint-Jams-Records. Nothing surprising about that. 
 
 ## HOW TO RUN IT
 1. Navigate to preferred directory: `cd <your-preferred-directory>`
